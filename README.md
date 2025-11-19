@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Hemmercamp/loja-bikes.git" target="_blank">
+  <a href="https://hemmercamp.github.io/loja-bikes/" target="_blank">
     <img src="https://img.shields.io/badge/🔵 ENTRAR%20NA%20LOJA-111?style=for-the-badge&color=0A66C2" height="60">
   </a>
 </p>
