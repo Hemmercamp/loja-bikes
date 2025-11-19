@@ -43,11 +43,11 @@ Criado para uso direto em vendas online, com:
 ## 📂 Estrutura do Projeto
 
 /assets
-├── bike-importada.png
-├── bike.mp4
-index.html
-descricao.html
-style.css
+├── bike-importada.png <br>
+├── bike.mp4 <br>
+index.html <br>
+descricao.html <br>
+style.css <br>
 README.md
  
 
