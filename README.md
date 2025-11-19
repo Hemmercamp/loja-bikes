@@ -42,7 +42,7 @@ Criado para uso direto em vendas online, com:
 
 ## 📂 Estrutura do Projeto
 
-/assets
+/assets<br>
 ├── bike-importada.png <br>
 ├── bike.mp4 <br>
 index.html <br>
